@@ -1,0 +1,9 @@
+Name,Category,Quantity,Cost,Description
+Main Aluminum Chassis,STRUCTURE,1,48,2020 aluminum extrusion frame
+Drive Motor,ELECTRONICS,2,32,12V DC geared encoder motor
+Drive Wheel,HARDWARE,2,15,120mm rubber wheel
+Motor Mount,3D PRINT,2,4,PETG prototype mount
+LiDAR Sensor,SENSOR,1,99,360-degree ranging sensor
+Battery Pack,POWER,1,65,12V 10Ah LiFePO4 pack
+Main Controller,ELECTRONICS,1,75,Single-board computer with 8GB RAM
+Motor Driver,ELECTRONICS,1,24,Dual-channel DC motor driver
